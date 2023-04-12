@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ucr432wqmiwid5yy?svg=true)](https://ci.appveyor.com/project/FURSADMIT/pageobjects)
